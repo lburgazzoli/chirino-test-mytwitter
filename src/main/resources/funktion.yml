@@ -4,6 +4,6 @@ flows:
   - kind: endpoint
     uri: twitter-mention:?accessToken=&accessTokenSecret=&consumerKey=&consumerSecret=
   - kind: endpoint
-    uri: atlas:mapping-step-1.json
+    uri: atlas:mapping-step-2.json
   - kind: endpoint
     uri: salesforce-upsert-contact:?clientId=&clientSecret=&loginUrl=https://login.salesforce.com&refreshToken=
